@@ -1,6 +1,7 @@
 # Backend
 backend/.env
 backend/__pycache__/
+backend/database/*.db
 *.pyc
 
 # Frontend
